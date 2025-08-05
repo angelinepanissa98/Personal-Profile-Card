@@ -109,6 +109,11 @@ body {
 }
 
 /* ===== SECCIÓN DE HABILIDADES ===== */
+.section-title {
+  justify-content: center;
+  text-align: center;
+}
+
 .skills-section {
   margin-bottom: 32px;
 }
